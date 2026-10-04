@@ -50,9 +50,9 @@ The SaaS table below is sorted by **Company Size / Valuation / Revenue (Descendi
 
 ## 🔓 Open-Source GitHub Projects
 
-The Open-Source projects below are sorted by **GitHub Stars (Descending)**:
+The Open-Source projects below are sorted by **GitHub_Stars (Descending)**:
 
-| Project Name 📦 | GitHub Stars ⭐ | License 📜 | Category 🗂️ | Key Highlights 🌟 |
+| Project Name 📦 | GitHub_Stars ⭐ | License 📜 | Category 🗂️ | Key Highlights 🌟 |
 | :--- | :--- | :--- | :--- | :--- |
 | **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** | [![OpenHands Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers) | MIT | Autonomous AI Software Engineer | Open-source platform (formerly OpenDevin) capable of editing code, running terminal bash commands, browsing the web, and resolving GitHub issues. |
 | **[code-server](https://github.com/coder/code-server)** | [![code-server Stars](https://img.shields.io/github/stars/coder/code-server?style=social&color=white)](https://github.com/coder/code-server/stargazers) | MIT | Remote Web IDE | Runs VS Code on any remote Linux/cloud server and serves it securely through any web browser tab. |
@@ -75,7 +75,7 @@ Contributions are welcome and appreciated! Follow these steps to submit a tool o
 
 1. Fork the repository.
 2. Add or update entries in `README.md` following the exact table structure.
-3. Ensure pricing, free tier limits, star badges, and links are accurate.
+3. Ensure pricing, free tier limits, Stars_Badges, and links are accurate.
 4. Submit a Pull Request with a short summary of changes.
 
 For curated lists guidelines, visit [Awesome Awesome Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
